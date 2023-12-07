@@ -28,27 +28,27 @@ Se utilizó la generación de gráficos para representar visualmente las relacio
 
 Identificamos patrones de rendimiento excepcionales en los jugadores que realizaban homeruns con las victorias de su equipo.
 
-![Logo de Béisbol](./images/homerunsvictorias.png)
+![Logo de Béisbol](./Images/homerunsvictorias.png)
 
 
 ### 2. Análisis de las Victorias y Rangos
 
 Observamos tendencias a lo largo de las temporadas, relacionadas con las victorias que obtenian los equipos y su rango al final de la temporada.
 
-![Logo de Béisbol](./images/relacionvictoriasyrangso.png)
+![Logo de Béisbol](./Images/relacionvictoriasyrangso.png)
 
 
 ### 3. Relación de victorias y perdidas de los equipos
 
 Analizamos la relación entre el desempeño de los equipos y sus resultados en términos de victorias y derrotas. Se generaron gráficos que visualizan esta relación, proporcionando información valiosa sobre la consistencia y éxito general de cada equipo a lo largo de la temporada.
 
-![Logo de Béisbol](./images/victoriasperdidas.png)
+![Logo de Béisbol](./Images/victoriasperdidas.png)
 
 ### 4. Datos de Regresión
 
 Aplicamos análisis de regresión para modelar y entender la relación entre diversas variables. Los coeficientes, p-valores y gráficos de regresión están disponibles en el directorio "results/regression" para aquellos interesados en explorar más a fondo la dinámica de ciertos aspectos del juego y su impacto en el rendimiento.
 
-![Logo de Béisbol](./images/regresion.png)
+![Logo de Béisbol](./Images/regresion.png)
 
 
 ## Cómo Usar Este Repositorio
